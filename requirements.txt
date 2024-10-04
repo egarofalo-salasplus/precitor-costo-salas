@@ -1,0 +1,8 @@
+viktor==14.15.2
+numpy
+matplotlib
+pandas
+scikit-learn
+plotly
+tables
+joblib
